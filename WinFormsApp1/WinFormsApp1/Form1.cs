@@ -19,10 +19,10 @@ namespace WinFormsApp1
             newform.Show();
         }
 
-      //  private void button3_Click(object sender, EventArgs e)
-       // {
-       //     Form4 newform = new Form4();
-       //     newform.Show();
-       // }
+       private void button3_Click(object sender, EventArgs e)
+       {
+            Form4 newform = new Form4();
+            newform.Show();
+        }
     }
 }
